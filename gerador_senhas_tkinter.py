@@ -1,6 +1,5 @@
 from tkinter import *
 import random
-import string
 import pyperclip as pc
 
 
